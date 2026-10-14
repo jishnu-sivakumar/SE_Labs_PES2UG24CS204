@@ -1,0 +1,12 @@
+************* Module society_dues
+society_dues.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+society_dues.py:7:0: C0116: Missing function or method docstring (missing-function-docstring)
+society_dues.py:16:0: C0116: Missing function or method docstring (missing-function-docstring)
+society_dues.py:26:0: C0116: Missing function or method docstring (missing-function-docstring)
+society_dues.py:28:19: W0123: Use of eval (eval-used)
+society_dues.py:35:0: C0116: Missing function or method docstring (missing-function-docstring)
+society_dues.py:43:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 8.00/10 (previous run: 5.81/10, +2.19)
+
